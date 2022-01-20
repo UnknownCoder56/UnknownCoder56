@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm UnknownCoder56 (UnknownPro 56)</h1>
-<h3 align="center">A passionate (and knows-what-he-does) Java developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unknowncoder56&label=Profile%20views&color=0e75b6&style=flat" alt="unknowncoder56" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [No records sorry](No records sorry)
 
-- ⚡ Fun fact **I think im funny and write long code**
+- ⚡ Fun fact **I think im funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
