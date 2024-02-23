@@ -5,25 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unknowncoder56" alt="unknowncoder56" /></a> </p>
 
-- 🔭 I’m currently working on [UnknownBot](https://github.com/UnknownCoder56/UnknownBot-latest)
-
-- 🌱 I’m currently learning **C#, and async stuff**
-
-- 👯 I’m looking to collaborate on [AssistOS](https://github.com/UnknownCoder56/AssistOS)
-
-- 🤝 I’m looking for help with [SFSBuildsPortal](https://github.com/UnknownCoder56/SFSBuildsPortal)
+- 🔭 I’m currently working on [Navix](https://github.com/UnknownCoder56/navixbrowser)
 
 - 👨‍💻 All of my projects are available at [https://github.com/UnknownCoder56/](https://github.com/UnknownCoder56/)
 
-- 📝 I regularly write articles on [https://uniqueapps.godaddysites.com/](https://uniqueapps.godaddysites.com/)
-
-- 💬 Ask me about **Java, Python and QBasic**
+- 💬 Ask me about **Java, C#, JS**
 
 - 📫 How to reach me **arpanchatterjee1647@gmail.com**
-
-- 📄 Know about my experiences [No records sorry](No records sorry)
-
-- ⚡ Fun fact **I think im funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
