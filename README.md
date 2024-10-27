@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unknowncoder56" alt="unknowncoder56" /></a> </p>
 
-- 🔭 I’m currently working on [Navix](https://github.com/UnknownCoder56/navixbrowser)
+- 🔭 I’m currently working on MR Maker (Private)
 
-- 👨‍💻 All of my projects are available at [https://github.com/UnknownCoder56/](https://github.com/UnknownCoder56/)
+- 👨‍💻 Most of my projects are available at [https://github.com/UnknownCoder56/](https://github.com/UnknownCoder56/)
 
-- 💬 Ask me about **Java, C#, JS**
+- 💬 Ask me about **Java, C#, JS, Python, HTML, CSS, VB.NET, C++, C**
 
 - 📫 How to reach me **arpanchatterjee1647@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@56unknownpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@56unknownpro" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/unknowncoder 56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="unknowncoder 56" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/t79ZyuHr5K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/t79ZyuHr5K" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14421723/unknowncoder-56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="unknowncoder 56" height="30" width="40" /></a>
+<a href="https://discord.gg/HaVaeRkNhP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/t79ZyuHr5K" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
