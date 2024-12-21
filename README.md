@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm UnknownCoder56 (UnknownPro 56)</h1>
-<h3 align="center">A passionate Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unknowncoder56&label=Profile%20views&color=0e75b6&style=flat" alt="unknowncoder56" /> </p>
 
