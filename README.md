@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unknowncoder56&label=Profile%20views&color=0e75b6&style=flat" alt="unknowncoder56" />
   <img src="https://img.shields.io/github/followers/UnknownCoder56?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/UnknownCoder56?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
 <p align="center">
@@ -19,7 +18,6 @@
 - 🌱 Passionate about building applications across **Mobile, Web, Desktop & Systems**
 - 💼 Experience with **15+ public repositories** covering diverse technologies
 - 🎯 Specialized in **Java, C#, JavaScript, Python, and VB.NET**
-- 📊 Total **9 Stars** across repositories | **1 Fork** from the community
 - 💬 Ask me about **Java, C#, JS, Python, HTML, CSS, VB.NET, C++, C, Android Development**
 - 📫 Reach me at **arpanchatterjee1647@gmail.com**
 
@@ -31,7 +29,7 @@
 
 ### 🤖 [UnknownBot-latest](https://github.com/UnknownCoder56/UnknownBot-latest)
 **Discord Bot with Advanced Features**
-- ⭐ 1 Star | MIT License
+- MIT License
 - Language: Java
 - Last Updated: November 2025
 - A feature-rich Discord bot built with Java
@@ -41,7 +39,6 @@
 
 ### 🌐 [navixbrowser](https://github.com/UnknownCoder56/navixbrowser)
 **Custom Android Browser**
-- ⭐ 2 Stars | 1 Fork
 - Language: Java
 - Last Updated: August 2025
 - Custom Android web browser application
@@ -53,7 +50,7 @@
 
 ### 💻 [ArpanOS](https://github.com/UnknownCoder56/ArpanOS)
 **Operating System in QuickBASIC**
-- ⭐ 2 Stars | 📄 Has GitHub Pages
+- 📄 Has GitHub Pages
 - Language: QuickBASIC
 - Last Updated: August 2025
 - An experimental OS project
@@ -63,7 +60,6 @@
 
 ### 🎮 [AssistOS](https://github.com/UnknownCoder56/AssistOS)
 **Virtual Assistant Platform**
-- ⭐ 1 Star
 - Language: Java
 - Last Updated: February 2024
 - AI-powered virtual assistant system
@@ -75,7 +71,6 @@
 
 ### 🧮 [CalculaX](https://github.com/UnknownCoder56/CalculaX)
 **Beautiful VB.NET Calculator**
-- ⭐ 1 Star
 - Language: Visual Basic .NET
 - A simple but beautiful calculator application
 
@@ -84,7 +79,6 @@
 
 ### 🍕 [pizza-shop-application-vb.net](https://github.com/UnknownCoder56/pizza-shop-application-vb.net)
 **Pizza Shop Management System**
-- ⭐ 1 Star
 - Language: Visual Basic .NET
 - Complete pizza shop POS application
 
@@ -94,8 +88,8 @@
 
 ### 📦 Other Notable Projects
 
-- **[UnknownBot-old-JDA-version](https://github.com/UnknownCoder56/UnknownBot-old-JDA-version)** - Legacy Discord Bot (Java) - ⭐ 1 Star
-- **[ATM-Portal](https://github.com/UnknownCoder56/ATM-Portal)** - ATM Management System (C#) - ⭐ 1 Star
+- **[UnknownBot-old-JDA-version](https://github.com/UnknownCoder56/UnknownBot-old-JDA-version)** - Legacy Discord Bot (Java)
+- **[ATM-Portal](https://github.com/UnknownCoder56/ATM-Portal)** - ATM Management System (C#)
 - **[JavaSLC](https://github.com/UnknownCoder56/JavaSLC)** - Java API wrapper for SLChat
 - **[LSFU](https://github.com/UnknownCoder56/LSFU)** - Local Storage File Utility (C#)
 - **[QuickScript](https://github.com/UnknownCoder56/QuickScript)** - Linux script manager (Java)
