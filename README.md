@@ -20,79 +20,64 @@
 <table>
 <tr>
 <td width="50%">
-
 ### 📱 [SFS GAMING BP](https://play.google.com/store/apps/details?id=sfs.gamingbp)
 **Mobile Game Community Platform**
 - Tech Stack: Expo, React Native, TypeScript, Firebase, AdMob, Algolia
 - Last Updated: December 2025
 - [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp) | [App Store](https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069)
 - Cross-platform mobile app for gaming community
-
 </td>
 <td width="50%">
-
 ### 🤖 [UnknownBot-latest](https://github.com/UnknownCoder56/UnknownBot-latest)
 **Discord Bot with Advanced Features**
 - MIT License
 - Tech Stack: Javacord, JSoup, MongoDB, ExchangeRate-API
 - Last Updated: November 2025
 - A feature-rich Discord bot built with Java
-
 </td>
 </tr>
 <tr>
 <td width="50%">
-
 ### 🌐 [navixbrowser](https://github.com/UnknownCoder56/navixbrowser)
 **Custom PC Browser**
 - Tech Stack: JavaCEF, Swing, Google Safe Browsing
 - Last Updated: August 2025
 - Custom desktop web browser application
-
 </td>
 <td width="50%">
-
 ### 💻 [TrixOS](https://github.com/UnknownCoder56/TrixOS)
 **Operating System in QB64**
 - 📄 Has GitHub Pages
 - Tech Stack: QB64 (QBasic for x64)
 - Last Updated: December 2025
 - An experimental OS project
-
 </td>
 </tr>
 <tr>
 <td width="50%">
-
 ### 🎓 [LearnSpace](https://learnspace3.vercel.app/)
 **Educational Learning Platform**
 - Tech Stack: JavaScript, HTML, CSS, Render
 - Web-based learning management system
-
 </td>
 <td width="50%">
-
 ### 🌌 [ConstellaX](https://github.com/UnknownCoder56/ConstellaX)
 **Constellation Drawing Application**
 - MIT License
 - Tech Stack: Java, Swing
 - Last Updated: December 2025
 - Record real constellations or draw your own
-
 </td>
 </tr>
 <tr>
 <td width="50%">
-
 ### 🎮 [AssistOS](https://github.com/UnknownCoder56/AssistOS)
 **Virtual Assistant Platform**
 - Language: Java
 - Last Updated: February 2024
 - AI-powered virtual assistant system
-
 </td>
 <td width="50%">
-
 </td>
 </tr>
 </table>
