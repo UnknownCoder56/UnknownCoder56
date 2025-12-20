@@ -15,105 +15,84 @@
 - 💬 Ask me about **Java, C#, JS, Python, HTML, CSS, VB.NET, C++, C, Android Development**
 - 📫 Reach me at **arpanchatterjee1647@gmail.com**
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-<table>
-<tr>
-<td width="50%">
+<div style="display:flex; flex-wrap:wrap; gap:16px;">
 
+<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
 <h3>📱 <a href="https://play.google.com/store/apps/details?id=sfs.gamingbp">SFS GAMING BP</a></h3>
 <b>Mobile Game Community Platform</b>
 <ul>
-  <li><b>Tech Stack:</b> Expo, React Native, TypeScript, Firebase, AdMob, Algolia</li>
-  <li><b>Last Updated:</b> December 2025</li>
-  <li>
-    <a href="https://play.google.com/store/apps/details?id=sfs.gamingbp">Play Store</a> |
-    <a href="https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069">App Store</a>
-  </li>
-  <li>Cross-platform mobile app for gaming community</li>
+<li><b>Tech Stack:</b> Expo, React Native, TypeScript, Firebase, AdMob, Algolia</li>
+<li><b>Last Updated:</b> December 2025</li>
+<li><a href="https://play.google.com/store/apps/details?id=sfs.gamingbp">Play Store</a> | <a href="https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069">App Store</a></li>
+<li>Cross-platform mobile app for gaming community</li>
 </ul>
+</div>
 
-</td>
-<td width="50%">
-
+<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
 <h3>🤖 <a href="https://github.com/UnknownCoder56/UnknownBot-latest">UnknownBot-latest</a></h3>
 <b>Discord Bot with Advanced Features</b>
 <ul>
-  <li><b>License:</b> MIT</li>
-  <li><b>Tech Stack:</b> Javacord, JSoup, MongoDB, ExchangeRate-API</li>
-  <li><b>Last Updated:</b> November 2025</li>
-  <li>A feature-rich Discord bot built with Java</li>
+<li><b>License:</b> MIT</li>
+<li><b>Tech Stack:</b> Javacord, JSoup, MongoDB, ExchangeRate-API</li>
+<li><b>Last Updated:</b> November 2025</li>
+<li>A feature-rich Discord bot built with Java</li>
 </ul>
+</div>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
+<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
 <h3>🌐 <a href="https://github.com/UnknownCoder56/navixbrowser">navixbrowser</a></h3>
 <b>Custom PC Browser</b>
 <ul>
-  <li><b>Tech Stack:</b> JavaCEF, Swing, Google Safe Browsing</li>
-  <li><b>Last Updated:</b> August 2025</li>
-  <li>Custom desktop web browser application</li>
+<li><b>Tech Stack:</b> JavaCEF, Swing, Google Safe Browsing</li>
+<li><b>Last Updated:</b> August 2025</li>
+<li>Custom desktop web browser application</li>
 </ul>
+</div>
 
-</td>
-<td width="50%">
-
+<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
 <h3>💻 <a href="https://github.com/UnknownCoder56/TrixOS">TrixOS</a></h3>
 <b>Operating System in QB64</b>
 <ul>
-  <li>📄 Has GitHub Pages</li>
-  <li><b>Tech Stack:</b> QB64 (QBasic for x64)</li>
-  <li><b>Last Updated:</b> December 2025</li>
-  <li>An experimental OS project</li>
+<li>📄 Has GitHub Pages</li>
+<li><b>Tech Stack:</b> QB64 (QBasic for x64)</li>
+<li><b>Last Updated:</b> December 2025</li>
+<li>An experimental OS project</li>
 </ul>
+</div>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
+<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
 <h3>🎓 <a href="https://learnspace3.vercel.app/">LearnSpace</a></h3>
 <b>Educational Learning Platform</b>
 <ul>
-  <li><b>Tech Stack:</b> JavaScript, HTML, CSS, Render</li>
-  <li>Web-based learning management system</li>
+<li><b>Tech Stack:</b> JavaScript, HTML, CSS, Render</li>
+<li>Web-based learning management system</li>
 </ul>
+</div>
 
-</td>
-<td width="50%">
-
+<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
 <h3>🌌 <a href="https://github.com/UnknownCoder56/ConstellaX">ConstellaX</a></h3>
 <b>Constellation Drawing Application</b>
 <ul>
-  <li><b>License:</b> MIT</li>
-  <li><b>Tech Stack:</b> Java, Swing</li>
-  <li><b>Last Updated:</b> December 2025</li>
-  <li>Record real constellations or draw your own</li>
+<li><b>License:</b> MIT</li>
+<li><b>Tech Stack:</b> Java, Swing</li>
+<li><b>Last Updated:</b> December 2025</li>
+<li>Record real constellations or draw your own</li>
 </ul>
+</div>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
+<div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
 <h3>🎮 <a href="https://github.com/UnknownCoder56/AssistOS">AssistOS</a></h3>
 <b>Virtual Assistant Platform</b>
 <ul>
-  <li><b>Language:</b> Java</li>
-  <li><b>Last Updated:</b> February 2024</li>
-  <li>AI-powered virtual assistant system</li>
+<li><b>Language:</b> Java</li>
+<li><b>Last Updated:</b> February 2024</li>
+<li>AI-powered virtual assistant system</li>
 </ul>
+</div>
 
-</td>
-<td width="50%"></td>
-</tr>
-</table>
+</div>
 
 ### 📦 Other Notable Projects
 
