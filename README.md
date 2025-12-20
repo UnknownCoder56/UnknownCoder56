@@ -33,7 +33,7 @@
 **Discord Bot with Advanced Features**
 - ⭐ 1 Star | MIT License
 - Language: Java
-- Latest Update: Nov 2025
+- Last Updated: November 2025
 - A feature-rich Discord bot built with Java
 
 </td>
@@ -43,7 +43,7 @@
 **Custom Android Browser**
 - ⭐ 2 Stars | 1 Fork
 - Language: Java
-- Latest Update: Aug 2025
+- Last Updated: August 2025
 - Custom Android web browser application
 
 </td>
@@ -55,7 +55,7 @@
 **Operating System in QuickBASIC**
 - ⭐ 2 Stars | 📄 Has GitHub Pages
 - Language: QuickBASIC
-- Latest Update: Aug 2025
+- Last Updated: August 2025
 - An experimental OS project
 
 </td>
@@ -65,7 +65,7 @@
 **Virtual Assistant Platform**
 - ⭐ 1 Star
 - Language: Java
-- Latest Update: Feb 2024
+- Last Updated: February 2024
 - AI-powered virtual assistant system
 
 </td>
