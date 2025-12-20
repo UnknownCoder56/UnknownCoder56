@@ -64,7 +64,7 @@
 <tr>
 <td width="50%">
 
-### 🎓 [LearnSpace](https://www.learnspace3.cf/)
+### 🎓 [LearnSpace](https://learnspace3.vercel.app/)
 **Educational Learning Platform**
 - Tech Stack: JavaScript, HTML, CSS, Render
 - Web-based learning management system
@@ -248,7 +248,7 @@
 ## 🏢 Organizations
 
 <p align="left">
-  Member of <a href="https://github.com/algorithmicalchemists" target="_blank"><strong>Algorithmic Alchemists</strong></a> and <strong>The Magnetars</strong>
+  Member of <a href="https://github.com/algorithmicalchemists" target="_blank"><strong>Algorithmic Alchemists</strong></a> and <a href="http://magnetars.vercel.app/" target="_blank"><strong>The Magnetars</strong></a>
 </p>
 
 ---
