@@ -20,65 +20,98 @@
 <table>
 <tr>
 <td width="50%">
-### 📱 [SFS GAMING BP](https://play.google.com/store/apps/details?id=sfs.gamingbp)
-**Mobile Game Community Platform**
-- Tech Stack: Expo, React Native, TypeScript, Firebase, AdMob, Algolia
-- Last Updated: December 2025
-- [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp) | [App Store](https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069)
-- Cross-platform mobile app for gaming community
+
+<h3>📱 <a href="https://play.google.com/store/apps/details?id=sfs.gamingbp">SFS GAMING BP</a></h3>
+<b>Mobile Game Community Platform</b>
+<ul>
+  <li><b>Tech Stack:</b> Expo, React Native, TypeScript, Firebase, AdMob, Algolia</li>
+  <li><b>Last Updated:</b> December 2025</li>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=sfs.gamingbp">Play Store</a> |
+    <a href="https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069">App Store</a>
+  </li>
+  <li>Cross-platform mobile app for gaming community</li>
+</ul>
+
 </td>
 <td width="50%">
-### 🤖 [UnknownBot-latest](https://github.com/UnknownCoder56/UnknownBot-latest)
-**Discord Bot with Advanced Features**
-- MIT License
-- Tech Stack: Javacord, JSoup, MongoDB, ExchangeRate-API
-- Last Updated: November 2025
-- A feature-rich Discord bot built with Java
+
+<h3>🤖 <a href="https://github.com/UnknownCoder56/UnknownBot-latest">UnknownBot-latest</a></h3>
+<b>Discord Bot with Advanced Features</b>
+<ul>
+  <li><b>License:</b> MIT</li>
+  <li><b>Tech Stack:</b> Javacord, JSoup, MongoDB, ExchangeRate-API</li>
+  <li><b>Last Updated:</b> November 2025</li>
+  <li>A feature-rich Discord bot built with Java</li>
+</ul>
+
 </td>
 </tr>
+
 <tr>
 <td width="50%">
-### 🌐 [navixbrowser](https://github.com/UnknownCoder56/navixbrowser)
-**Custom PC Browser**
-- Tech Stack: JavaCEF, Swing, Google Safe Browsing
-- Last Updated: August 2025
-- Custom desktop web browser application
+
+<h3>🌐 <a href="https://github.com/UnknownCoder56/navixbrowser">navixbrowser</a></h3>
+<b>Custom PC Browser</b>
+<ul>
+  <li><b>Tech Stack:</b> JavaCEF, Swing, Google Safe Browsing</li>
+  <li><b>Last Updated:</b> August 2025</li>
+  <li>Custom desktop web browser application</li>
+</ul>
+
 </td>
 <td width="50%">
-### 💻 [TrixOS](https://github.com/UnknownCoder56/TrixOS)
-**Operating System in QB64**
-- 📄 Has GitHub Pages
-- Tech Stack: QB64 (QBasic for x64)
-- Last Updated: December 2025
-- An experimental OS project
+
+<h3>💻 <a href="https://github.com/UnknownCoder56/TrixOS">TrixOS</a></h3>
+<b>Operating System in QB64</b>
+<ul>
+  <li>📄 Has GitHub Pages</li>
+  <li><b>Tech Stack:</b> QB64 (QBasic for x64)</li>
+  <li><b>Last Updated:</b> December 2025</li>
+  <li>An experimental OS project</li>
+</ul>
+
 </td>
 </tr>
+
 <tr>
 <td width="50%">
-### 🎓 [LearnSpace](https://learnspace3.vercel.app/)
-**Educational Learning Platform**
-- Tech Stack: JavaScript, HTML, CSS, Render
-- Web-based learning management system
+
+<h3>🎓 <a href="https://learnspace3.vercel.app/">LearnSpace</a></h3>
+<b>Educational Learning Platform</b>
+<ul>
+  <li><b>Tech Stack:</b> JavaScript, HTML, CSS, Render</li>
+  <li>Web-based learning management system</li>
+</ul>
+
 </td>
 <td width="50%">
-### 🌌 [ConstellaX](https://github.com/UnknownCoder56/ConstellaX)
-**Constellation Drawing Application**
-- MIT License
-- Tech Stack: Java, Swing
-- Last Updated: December 2025
-- Record real constellations or draw your own
+
+<h3>🌌 <a href="https://github.com/UnknownCoder56/ConstellaX">ConstellaX</a></h3>
+<b>Constellation Drawing Application</b>
+<ul>
+  <li><b>License:</b> MIT</li>
+  <li><b>Tech Stack:</b> Java, Swing</li>
+  <li><b>Last Updated:</b> December 2025</li>
+  <li>Record real constellations or draw your own</li>
+</ul>
+
 </td>
 </tr>
+
 <tr>
 <td width="50%">
-### 🎮 [AssistOS](https://github.com/UnknownCoder56/AssistOS)
-**Virtual Assistant Platform**
-- Language: Java
-- Last Updated: February 2024
-- AI-powered virtual assistant system
+
+<h3>🎮 <a href="https://github.com/UnknownCoder56/AssistOS">AssistOS</a></h3>
+<b>Virtual Assistant Platform</b>
+<ul>
+  <li><b>Language:</b> Java</li>
+  <li><b>Last Updated:</b> February 2024</li>
+  <li>AI-powered virtual assistant system</li>
+</ul>
+
 </td>
-<td width="50%">
-</td>
+<td width="50%"></td>
 </tr>
 </table>
 
