@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **SFS GAMING BP** (Private) - [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp)
+- 🔭 Currently working on **SFS GAMING BP** (Private) - [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp) | [App Store](https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069)
 - 🌱 Passionate about building applications across **Mobile, Web, Desktop & Systems**
 - 💼 Experience with **15+ public repositories** covering diverse technologies
 - 🎯 Specialized in **Java, C#, JavaScript, Python, and VB.NET**
@@ -27,35 +27,67 @@
 <tr>
 <td width="50%">
 
-### 🤖 [UnknownBot-latest](https://github.com/UnknownCoder56/UnknownBot-latest)
-**Discord Bot with Advanced Features**
-- MIT License
-- Language: Java
-- Last Updated: November 2025
-- A feature-rich Discord bot built with Java
+### 📱 [SFS GAMING BP](https://play.google.com/store/apps/details?id=sfs.gamingbp)
+**Mobile Game Community Platform**
+- Tech Stack: Expo, React Native, TypeScript, Firebase, AdMob, Algolia
+- Last Updated: December 2025
+- [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp) | [App Store](https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069)
+- Cross-platform mobile app for gaming community
 
 </td>
 <td width="50%">
 
-### 🌐 [navixbrowser](https://github.com/UnknownCoder56/navixbrowser)
-**Custom Android Browser**
-- Language: Java
-- Last Updated: August 2025
-- Custom Android web browser application
+### 🤖 [UnknownBot-latest](https://github.com/UnknownCoder56/UnknownBot-latest)
+**Discord Bot with Advanced Features**
+- MIT License
+- Tech Stack: Javacord, JSoup, MongoDB, ExchangeRate-API
+- Last Updated: November 2025
+- A feature-rich Discord bot built with Java
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 💻 [ArpanOS](https://github.com/UnknownCoder56/ArpanOS)
-**Operating System in QuickBASIC**
-- 📄 Has GitHub Pages
-- Language: QuickBASIC
+### 🌐 [navixbrowser](https://github.com/UnknownCoder56/navixbrowser)
+**Custom PC Browser**
+- Tech Stack: JavaCEF, Swing, Google Safe Browsing
 - Last Updated: August 2025
+- Custom desktop web browser application
+
+</td>
+<td width="50%">
+
+### 💻 [TrixOS](https://github.com/UnknownCoder56/TrixOS)
+**Operating System in QB64**
+- 📄 Has GitHub Pages
+- Tech Stack: QB64 (QBasic for x64)
+- Last Updated: December 2025
 - An experimental OS project
 
 </td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 [LearnSpace](https://www.learnspace3.cf/)
+**Educational Learning Platform**
+- Tech Stack: JavaScript, HTML, CSS, Render
+- Web-based learning management system
+
+</td>
+<td width="50%">
+
+### 🌌 [ConstellaX](https://github.com/UnknownCoder56/ConstellaX)
+**Constellation Drawing Application**
+- MIT License
+- Tech Stack: Java, Swing
+- Last Updated: December 2025
+- Record real constellations or draw your own
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎮 [AssistOS](https://github.com/UnknownCoder56/AssistOS)
@@ -65,22 +97,7 @@
 - AI-powered virtual assistant system
 
 </td>
-</tr>
-<tr>
 <td width="50%">
-
-### 🧮 [CalculaX](https://github.com/UnknownCoder56/CalculaX)
-**Beautiful VB.NET Calculator**
-- Language: Visual Basic .NET
-- A simple but beautiful calculator application
-
-</td>
-<td width="50%">
-
-### 🍕 [pizza-shop-application-vb.net](https://github.com/UnknownCoder56/pizza-shop-application-vb.net)
-**Pizza Shop Management System**
-- Language: Visual Basic .NET
-- Complete pizza shop POS application
 
 </td>
 </tr>
@@ -88,13 +105,14 @@
 
 ### 📦 Other Notable Projects
 
+- **[CalculaX](https://github.com/UnknownCoder56/CalculaX)** - Beautiful VB.NET calculator application
+- **[pizza-shop-application-vb.net](https://github.com/UnknownCoder56/pizza-shop-application-vb.net)** - Pizza Shop POS system (VB.NET)
 - **[UnknownBot-old-JDA-version](https://github.com/UnknownCoder56/UnknownBot-old-JDA-version)** - Legacy Discord Bot (Java)
 - **[ATM-Portal](https://github.com/UnknownCoder56/ATM-Portal)** - ATM Management System (C#)
 - **[JavaSLC](https://github.com/UnknownCoder56/JavaSLC)** - Java API wrapper for SLChat
 - **[LSFU](https://github.com/UnknownCoder56/LSFU)** - Local Storage File Utility (C#)
 - **[QuickScript](https://github.com/UnknownCoder56/QuickScript)** - Linux script manager (Java)
 - **[ModBot](https://github.com/UnknownCoder56/ModBot)** - Discord moderation bot (Java)
-- **[MyFirstCSharpApp](https://github.com/UnknownCoder56/MyFirstCSharpApp)** - Learning C# fundamentals
 
 ## 📈 GitHub Statistics
 
@@ -243,6 +261,14 @@
   <a href="https://discord.gg/HaVaeRkNhP" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="unknownpro56" height="30" width="40" />
   </a>
+</p>
+
+---
+
+## 🏢 Organizations
+
+<p align="left">
+  Member of <a href="https://github.com/algorithmicalchemists" target="_blank"><strong>Algorithmic Alchemists</strong></a> and <strong>The Magnetars</strong>
 </p>
 
 ---
