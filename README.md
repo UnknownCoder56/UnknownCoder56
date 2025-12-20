@@ -6,12 +6,6 @@
   <img src="https://img.shields.io/github/followers/UnknownCoder56?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=unknowncoder56&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=1" alt="unknowncoder56" />
-  </a>
-</p>
-
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **SFS GAMING BP** (Private) - [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp) | [App Store](https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069)
@@ -113,20 +107,6 @@
 - **[LSFU](https://github.com/UnknownCoder56/LSFU)** - Local Storage File Utility (C#)
 - **[QuickScript](https://github.com/UnknownCoder56/QuickScript)** - Linux script manager (Java)
 - **[ModBot](https://github.com/UnknownCoder56/ModBot)** - Discord moderation bot (Java)
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=unknowncoder56&show_icons=true&locale=en&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="unknowncoder56" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unknowncoder56&show_icons=true&locale=en&layout=compact&theme=default&hide_border=false" alt="unknowncoder56" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unknowncoder56&theme=default" alt="unknowncoder56" />
-</p>
 
 ## 🛠️ Technology Stack
 
