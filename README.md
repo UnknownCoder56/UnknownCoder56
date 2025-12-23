@@ -241,7 +241,7 @@
     <img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg" alt="unknownpro56" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/arpan.c_" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/250px-Instagram_logo_2016.svg.png?20210403190622" alt="arpan.c_" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="arpan.c_" height="30" width="40" />
   </a>
 </p>
 
