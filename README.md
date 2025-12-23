@@ -45,6 +45,7 @@
 <h3>🌐 <a href="https://github.com/UnknownCoder56/navixbrowser">navixbrowser</a></h3>
 <b>Custom PC Browser</b>
 <ul>
+<li><b>License:</b> MIT</li>
 <li><b>Tech Stack:</b> JavaCEF, Swing, Google Safe Browsing</li>
 <li><b>Last Updated:</b> August 2025</li>
 <li>Custom desktop web browser application</li>
@@ -55,7 +56,6 @@
 <h3>💻 <a href="https://github.com/UnknownCoder56/TrixOS">TrixOS</a></h3>
 <b>Operating System in QB64</b>
 <ul>
-<li>📄 Has GitHub Pages</li>
 <li><b>Tech Stack:</b> QB64 (QBasic for x64)</li>
 <li><b>Last Updated:</b> December 2025</li>
 <li>An experimental OS project</li>
@@ -66,6 +66,7 @@
 <h3>🎓 <a href="https://learnspace3.vercel.app/">LearnSpace</a></h3>
 <b>Educational Learning Platform</b>
 <ul>
+<li><b>License:</b> MIT</li>
 <li><b>Tech Stack:</b> JavaScript, HTML, CSS, Render</li>
 <li>Web-based learning management system</li>
 </ul>
@@ -86,6 +87,7 @@
 <h3>🎮 <a href="https://github.com/UnknownCoder56/AssistOS">AssistOS</a></h3>
 <b>Virtual Assistant Platform</b>
 <ul>
+<li><b>License:</b> MIT</li>
 <li><b>Language:</b> Java</li>
 <li><b>Last Updated:</b> February 2024</li>
 <li>AI-powered virtual assistant system</li>
