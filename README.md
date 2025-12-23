@@ -84,13 +84,13 @@
 </div>
 
 <div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
-<h3>🎮 <a href="https://github.com/UnknownCoder56/AssistOS">AssistOS</a></h3>
-<b>Virtual Assistant Platform</b>
+<h3>🎵 <a href="https://github.com/UnknownCoder56/music">music</a></h3>
+<b>Music Player Application</b>
 <ul>
 <li><b>License:</b> MIT</li>
-<li><b>Language:</b> Java</li>
-<li><b>Last Updated:</b> February 2024</li>
-<li>AI-powered virtual assistant system</li>
+<li><b>Tech Stack:</b> JavaFX, GraalVM, Gluon</li>
+<li><b>Last Updated:</b> December 2025</li>
+<li>Cross-platform music player built with JavaFX</li>
 </ul>
 </div>
 
