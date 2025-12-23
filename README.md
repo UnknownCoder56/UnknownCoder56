@@ -11,8 +11,8 @@
 - 🔭 Currently working on **SFS GAMING BP** (Private) - [Play Store](https://play.google.com/store/apps/details?id=sfs.gamingbp) | [App Store](https://apps.apple.com/in/app/sfs-gaming-bp/id6747316069)
 - 🌱 Passionate about building applications across **Mobile, Web, Desktop & Systems**
 - 💼 Experience with **15+ public repositories** covering diverse technologies
-- 🎯 Specialized in **Java, C#, JavaScript, Python, and VB.NET**
-- 💬 Ask me about **Java, C#, JS, Python, HTML, CSS, VB.NET, C++, C, Android Development**
+- 🎯 Specialized in **Java, C#, JavaScript, Python, and .NET**
+- 💬 Ask me about **Java, C#, JS, Python, HTML, CSS, .NET, C++, C, Android Development**
 - 📫 Reach me at **arpanchatterjee1647@gmail.com**
 
 <h2>🚀 Featured Projects</h2>
