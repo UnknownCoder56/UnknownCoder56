@@ -42,7 +42,7 @@
 </div>
 
 <div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
-<h3>🌐 <a href="https://github.com/UnknownCoder56/navixbrowser">navixbrowser</a></h3>
+<h3>🌐 <a href="https://github.com/UnknownCoder56/navixbrowser">Navix</a></h3>
 <b>Custom PC Browser</b>
 <ul>
 <li><b>License:</b> MIT</li>
