@@ -31,13 +31,13 @@
 </div>
 
 <div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
-<h3>🤖 <a href="https://github.com/UnknownCoder56/UnknownBot-latest">UnknownBot-latest</a></h3>
+<h3>🤖 <a href="https://github.com/UnknownCoder56/maxis">Maxis</a></h3>
 <b>Discord Bot with Advanced Features</b>
 <ul>
 <li><b>License:</b> MIT</li>
-<li><b>Tech Stack:</b> Javacord, JSoup, MongoDB, ExchangeRate-API</li>
-<li><b>Last Updated:</b> November 2025</li>
-<li>A feature-rich Discord bot built with Java</li>
+<li><b>Tech Stack:</b> discord.py, Flask, BeautifulSoup, MongoDB, ExchangeRate-API</li>
+<li><b>Last Updated:</b> January 2026</li>
+<li>A feature-rich Discord bot built with Python</li>
 </ul>
 </div>
 
