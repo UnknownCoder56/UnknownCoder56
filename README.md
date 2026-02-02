@@ -84,8 +84,8 @@
 </div>
 
 <div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
-<h3>🎵 <a href="https://github.com/UnknownCoder56/musemix">music</a></h3>
-<b>Musemix</b>
+<h3>🎵 <a href="https://github.com/UnknownCoder56/musemix">Musemix</a></h3>
+<b>Music Player and Composer</b>
 <ul>
 <li><b>License:</b> MIT</li>
 <li><b>Tech Stack:</b> JavaFX, GraalVM, Gluon, Gson</li>
