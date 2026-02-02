@@ -84,13 +84,13 @@
 </div>
 
 <div style="flex:1 1 48%; border:1px solid #30363d; border-radius:8px; padding:14px;">
-<h3>🎵 <a href="https://github.com/UnknownCoder56/music">music</a></h3>
-<b>Music Player Application</b>
+<h3>🎵 <a href="https://github.com/UnknownCoder56/musemix">music</a></h3>
+<b>Musemix</b>
 <ul>
 <li><b>License:</b> MIT</li>
-<li><b>Tech Stack:</b> JavaFX, GraalVM, Gluon</li>
-<li><b>Last Updated:</b> December 2025</li>
-<li>Cross-platform music player built with JavaFX</li>
+<li><b>Tech Stack:</b> JavaFX, GraalVM, Gluon, Gson</li>
+<li><b>Last Updated:</b> February 2026</li>
+<li>Cross-platform performant music player and composer built with JavaFX</li>
 </ul>
 </div>
 
